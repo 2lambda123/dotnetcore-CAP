@@ -20,7 +20,7 @@
     "bootstrap": "^4.5.3",
     "bootstrap-vue": "^2.21.2",
     "json-bigint": "^1.0.0",
-    "vue": "^2.7.7",
+    "vue": "^3.0.0",
     "vue-i18n": "^8.26.7",
     "vue-json-pretty": "^1.8.0",
     "vue-router": "^3.5.4",
